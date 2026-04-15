@@ -51,3 +51,21 @@ Veyra is commit mode for production AI agent actions. Discovery and verification
 
 - https://veyra.to
 - `npm install @veyrahq/sdk-node`
+
+## Part of the Veyra Ecosystem
+
+Veyra is commit mode for production AI agent actions.
+All tools: reads free, writes require Veyra commit mode.
+
+| Tool | Description | Install |
+|------|-------------|---------|
+| [veyra-notes](https://github.com/Aquariosan/veyra-notes) | Note-taking with tags | `npm i -g veyra-notes` |
+| [veyra-tasks](https://github.com/Aquariosan/veyra-tasks) | Task management | `npm i -g veyra-tasks` |
+| [veyra-snippets](https://github.com/Aquariosan/veyra-snippets) | Code snippet storage | `npm i -g veyra-snippets` |
+| [veyra-bookmarks](https://github.com/Aquariosan/veyra-bookmarks) | Bookmark manager | `npm i -g veyra-bookmarks` |
+| [veyra-contacts](https://github.com/Aquariosan/veyra-contacts) | Contact management | `npm i -g veyra-contacts` |
+| [veyra-forms](https://github.com/Aquariosan/veyra-forms) | Form builder | `npm i -g veyra-forms` |
+| [veyra-webhooks](https://github.com/Aquariosan/veyra-webhooks) | Webhook sender | `npm i -g veyra-webhooks` |
+
+**SDK:** [npm install @veyrahq/sdk-node](https://www.npmjs.com/package/@veyrahq/sdk-node)
+**Website:** [veyra.to](https://veyra.to)
